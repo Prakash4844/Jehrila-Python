@@ -23,6 +23,12 @@ This is a snake game in python, it's name is Jehrila. jehrila means poisonous in
 3. Don't hit the walls or yourself
 4. Have fun!
 
+## Screenshot
+
+<p align="center">
+  <img src="https://github.com/Prakash4844/Jehrila-Python/assets/81550376/8e2537ee-274c-4d26-bf3b-890630ea4310" alt="JehrilaSS"/>
+</p>
+
 ## Installation
 
 1. Download latest release from [here]()
