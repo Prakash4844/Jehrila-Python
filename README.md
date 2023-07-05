@@ -31,7 +31,7 @@ This is a snake game in python, it's name is Jehrila. jehrila means poisonous in
 
 ## Installation
 
-1. Download latest release from [here]()
+1. Download latest release from [here](https://github.com/Prakash4844/Jehrila-Python/releases/tag/V1.0)
 2. Extract the lzma file using 7zip or any other software
 3. Run the executable file
 
